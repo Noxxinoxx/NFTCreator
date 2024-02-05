@@ -1,5 +1,3 @@
-Certainly! Here's a simple README.md text for your project:
-
 ---
 
 # NFT Creator
