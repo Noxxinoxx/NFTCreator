@@ -2,6 +2,12 @@
 
 # NFT Creator
 
+<img src="/out/0.png" alt="Image 1" style="display:block; margin:auto;">
+<img src="/out/14.png" alt="Image 2" style="display:block; margin:auto;">
+<img src="/out/2.png" alt="Image 3" style="display:block; margin:auto;">
+
+
+
 Welcome to the NFT Creator project! This application generates NFT (Non-Fungible Token) pictures by combining various hand-drawn elements including beards, eyes, hats, shirts, mouths, glasses, and skins.
 
 ## How it Works
